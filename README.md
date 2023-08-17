@@ -7,7 +7,7 @@
 -    - Creating bug reports, retest
 -    - Testing of mobile application updates
 -    - Performing exploratory and ad-hoc testing
-- 📫 Reach me by [LinkedIn](http://www.linkedin.com/in/pavel-shants), or [Telegram](https://t.me/Pavel_Shants)
+- 📫 Reach me by [LinkedIn](http://www.linkedin.com/in/pavel-shants) for communication and business communication, or [Telegram](https://t.me/Pavel_Shants) for quick personal communication
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
