@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Pavel.
+## - 👋 Hi there, I’m Pavel.
 - 👀 I’m QA Trainee. ...
 - 🌱 Now I'm studying Vadim Ksendzov's QA engineer courses.
 - 💞️ I work in commercial practice on several projects, I perform the following tasks:
@@ -8,6 +8,8 @@
 -    - Testing of mobile application updates
 -    - Performing exploratory and ad-hoc testing
 - 📫 Reach me by [LinkedIn](http://www.linkedin.com/in/pavel-shants) for communication and business communication, or [Telegram](https://t.me/Pavel_Shants) for quick personal communication
+## My CV
+[Link to My CV](https://drive.google.com/file/d/12AhsTLuApTTQBqepcjw7vsK6OuzT451c/view?usp=sharing)
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
